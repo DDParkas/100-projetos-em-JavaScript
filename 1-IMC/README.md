@@ -1,4 +1,3 @@
-<img src="./imc-capa.jpg" align="center"></img>
 <h1 align="center">Calculadora IMC</h1>
 
 <p align="center">
@@ -20,6 +19,8 @@
 ## Descrição
 Calculadora de IMC simples feita somente em HTML5, CSS3 e JavaScript. O projeto foi feito no primeiro dia do desafio dos 100 dias.
 28/04/2021
+
+<img src="./imc-capa.jpg" align="center"></img>
 
 ### Funcionando no CodePen
 [CodePen](https://codepen.io/ddparkas/pen/KKaLdBK)
