@@ -1,4 +1,4 @@
-<img src="./wallpaper.jpg" align="center"></img>
+<p align="center"><img src="./wallpaper.jpg"></img></p>
 <h1 align="center">Desafio dos 100 dias</h1>
 <p align="center">Este repositório guarda o desafio de começar e concluir um projeto por dia duarante 100 dias</p>
 
