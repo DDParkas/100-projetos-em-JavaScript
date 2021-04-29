@@ -1,4 +1,4 @@
-<img src="./imc-capa.png" align="center"></img>
+<img src="./imc-capa.jpg" align="center"></img>
 <h1 align="center">Calculadora IMC</h1>
 
 <p align="center">
