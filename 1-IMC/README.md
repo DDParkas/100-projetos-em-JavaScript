@@ -1,6 +1,5 @@
-<img src="./wallpaper.png" align="center"></img>
-<h1 align="center">Desafio dos 100 dias</h1>
-<p align="center">Este repositório guarda o desafio de começar e concluir um projeto por dia duarante 100 dias</p>
+<img src="./imc-capa.png" align="center"></img>
+<h1 align="center">Calculadora IMC</h1>
 
 <p align="center">
   
@@ -18,10 +17,9 @@
   </a>
 </p>
 
-## Projetos
+## Descrição
+Calculadora de IMC simples feita somente em HTML5, CSS3 e JavaScript. O projeto foi feito no primeiro dia do desafio dos 100 dias.
+28/04/2021
 
-[1 - calculadora de IMC](./1-IMC)
-
-## Licença
-
-[MIT](./LICENSE) &copy; [Daniel Dormin](https://ddparkas.github.io/site/)
+### Funcionando no CodePen
+[CodePen](https://codepen.io/ddparkas/pen/KKaLdBK)
