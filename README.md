@@ -14,13 +14,14 @@
     <img src="https://img.shields.io/badge/javascript-grey?logo=javascript"></img>
   </a>
   <a aria-label="um dia" href="#">
-    <img src="https://img.shields.io/badge/Dia-1-green"></img>
+    <img src="https://img.shields.io/badge/Dia-2-green"></img>
   </a>
 </p>
 
 ## Projetos
 
 [1 - calculadora de IMC](./1-IMC)
+[2 - Slideshow](./2-Slideshow)
 
 ## Licença
 
