@@ -21,6 +21,7 @@
 ## Projetos
 
 [1 - calculadora de IMC](./1-IMC)
+
 [2 - Slideshow](./2-Slideshow)
 
 ## Licença
