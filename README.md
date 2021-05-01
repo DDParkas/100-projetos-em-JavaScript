@@ -26,7 +26,7 @@
 
 [3 - Contador Regressivo](./3-Contador-regressivo)
 
-[4 - Imagem zoom](./3-Imagem-zoom)
+[4 - Imagem zoom](./4-Imagem-zoom)
 
 ## Licença
 
