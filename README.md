@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/javascript-grey?logo=javascript"></img>
   </a>
   <a aria-label="um dia" href="#">
-    <img src="https://img.shields.io/badge/Dia-3-green"></img>
+    <img src="https://img.shields.io/badge/Dia-4-green"></img>
   </a>
 </p>
 
@@ -24,7 +24,9 @@
 
 [2 - Slideshow](./2-Slideshow)
 
-[2 - Contador Regressivo](./3-Contador-regressivo)
+[3 - Contador Regressivo](./3-Contador-regressivo)
+
+[4 - Imagem zoom](./3-Imagem-zoom)
 
 ## Licença
 
