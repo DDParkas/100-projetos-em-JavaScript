@@ -1,0 +1,42 @@
+<!doctype HTML>
+<html>
+    <head>
+        <title>Contador regressivo</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+        <h1>Contador regressivo</h1>
+        <div class="app">
+            <div class="container">
+                <p class="numbers" id="days" min='0'>00</p>
+                <span>Dias</span>
+                <br>
+                <input type="number" id="inputDay" >
+            </div>
+            <div class="container">
+                <p class="numbers" id="hours" >00</p>
+                <span>Horas</span>
+                <br>
+                <input type="number" id="inputHour" max='24' min='0'>
+            </div>
+            <div class="container">
+                <p class="numbers" id="minutes">00</p>
+                <span>Minutos</span>
+                <br>
+                <input type="number" id="inputMinute" max='60' min='0'>
+            </div>
+            <div class="container">
+                <p class="numbers" id="seconds">00</p>
+                <span>Segundos</span>
+                <br>
+                <input type="number" id="inputSecond" max="60" min='0'>
+            </div>
+        </div>
+        <div class="buttons">
+            <button id='init'>Iniciar</button>        
+        </div>
+        <span id='alert'></span>
+        <div id="made">Made by <b><a href="https://ddparkas.github.io/site/">Daniel Dormin</a></b> 30-04-2021</div>
+        <script src="app.js"></script>
+    </body>
+</html>

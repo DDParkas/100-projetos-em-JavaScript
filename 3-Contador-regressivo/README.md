@@ -1,4 +1,4 @@
-<h1 align="center">SlideShow</h1>
+<h1 align="center">Contador Regressivo</h1>
 
 <p align="center">
   
@@ -12,15 +12,16 @@
     <img src="https://img.shields.io/badge/javascript-grey?logo=javascript"></img>
   </a>
   <a aria-label="um dia" href="#">
-    <img src="https://img.shields.io/badge/Dia-2-green"></img>
+    <img src="https://img.shields.io/badge/Dia-3-green"></img>
   </a>
 </p>
 
 ## Descrição
-Slideshow simples feita somente em HTML5, CSS3 e JavaScript. O projeto foi feito no segundo dia do desafio dos 100 dias.
-29/04/2021
+Timer /  Contador regressivo feito somente em HTML5, CSS3 e JavaScript. O projeto foi feito no terceiro dia do desafio dos 100 dias.
+Até agora o mais dificil, mas , consegui aplicar alguns conceitos importantes que etão mais solidos como.
+30/04/2021
 
-<img src="./slideshow-capa.jpg" align="center"></img>
+<img src="./contador-capa.jpg" align="center"></img>
 
 ### Funcionando no CodePen
-[CodePen](https://codepen.io/ddparkas/pen/oNBROaJ)
+[CodePen](https://codepen.io/ddparkas/pen/RwKzLGw)
