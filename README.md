@@ -28,6 +28,8 @@
 
 [4 - Imagem zoom](./4-Imagem-zoom)
 
+[5 - Imagem zoom](./5-Rain)
+
 ## Licença
 
 [MIT](./LICENSE) &copy; [Daniel Dormin](https://ddparkas.github.io/site/)

@@ -7,9 +7,13 @@ function rain(){
 
     rain.style.amationDuration = Math.random() * 2 + 3 + 's'
 
-    rain.innerText = ':droplet:'
+    rain.innerHTML = '&#128167;'
 
     document.body.appendChild(rain)
+
+    setTimeout(() => {
+        rain.remove()
+    }, 5000)
 }
 
 setInterval(rain, 300)
