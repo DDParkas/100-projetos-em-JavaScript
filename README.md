@@ -28,7 +28,7 @@
 
 [4 - Imagem zoom](./4-Imagem-zoom)
 
-[5 - Imagem zoom](./5-Rain)
+[5 - Rain](./5-Rain)
 
 ## Licença
 
