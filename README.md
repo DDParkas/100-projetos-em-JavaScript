@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/javascript-grey?logo=javascript"></img>
   </a>
   <a aria-label="um dia" href="#">
-    <img src="https://img.shields.io/badge/Dia-4-green"></img>
+    <img src="https://img.shields.io/badge/Dia-7-green"></img>
   </a>
 </p>
 
@@ -29,6 +29,8 @@
 [4 - Imagem zoom](./4-Imagem-zoom)
 
 [5 - Rain](./5-Rain)
+
+[6 - Rando dog](./6-Random-dog)
 
 ## Licença
 

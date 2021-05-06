@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/javascript-grey?logo=javascript"></img>
   </a>
   <a aria-label="um dia" href="#">
-    <img src="https://img.shields.io/badge/Dia-4-green"></img>
+    <img src="https://img.shields.io/badge/Dia-5-green"></img>
   </a>
 </p>
 
