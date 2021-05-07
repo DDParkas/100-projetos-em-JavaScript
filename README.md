@@ -30,7 +30,7 @@
 
 [5 - Rain](./5-Rain)
 
-[6 - Rando dog](./6-Random-dog)
+[6 - Random dog](./6-Random-dog)
 
 ## Licença
 
