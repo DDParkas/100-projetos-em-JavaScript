@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    display: flex;
+    background-color: #cecece;
+    font-family: 'Open Sans', sans-serif;
+   
+}
+#box{
+   
+    bottom: 18px;
+    right: 10px;
+    position: fixed;
+    
+}
+.notice{
+    background-color: #8B46E2;
+    color:#cecece;
+    padding: 1em;
+    margin: 1em;
+    transition: ease all 0.5s;
+}
+h1{
+    position: absolute;
+    margin-bottom:500px ;
+    font-size: 3em;
+    text-transform: uppercase;
+    color: #707070;
+}
+button{
+    background-color: #cecece;
+    border:1px solid #707070;
+    font-size: 2em;
+    color:#707070;
+    box-shadow: 5px 5px 10px #707070;
+    transition: ease all 0.5s;
+}
+button:hover{
+    background-color: #111111;
+    color:#707070;
+}
+
+#made{
+    font-size: .7em;
+    margin-top: 80vh;
+    position: absolute;
+    color: #707070;
+}
+#made a{
+    text-decoration: none;
+    color: #707070;
+}
+#made a:hover{
+    color:#8B46E2;
+}
