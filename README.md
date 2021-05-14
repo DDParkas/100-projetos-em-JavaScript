@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/javascript-grey?logo=javascript"></img>
   </a>
   <a aria-label="um dia" href="#">
-    <img src="https://img.shields.io/badge/Dia-8-green"></img>
+    <img src="https://img.shields.io/badge/Dia-10-green"></img>
   </a>
 </p>
 
@@ -35,6 +35,8 @@
 [7 - Notifications](./7-Notifications)
 
 [8 - Notifications](./8-Modal)
+
+[9 - Cronometro](./9-Cronometro)
 
 ## Licença
 
