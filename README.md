@@ -36,7 +36,7 @@
 
 [8 - Notifications](./8-Modal)
 
-[9 - Cronometro](./9-Cronometro)
+[9 - Cronômetro](./9-Cronometro)
 
 ## Licença
 
