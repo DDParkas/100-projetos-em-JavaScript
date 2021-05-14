@@ -34,6 +34,8 @@
 
 [7 - Notifications](./7-Notifications)
 
+[8 - Notifications](./8-Modal)
+
 ## Licença
 
 [MIT](./LICENSE) &copy; [Daniel Dormin](https://ddparkas.github.io/site/)
