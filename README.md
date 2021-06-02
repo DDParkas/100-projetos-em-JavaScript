@@ -38,6 +38,8 @@
 
 [9 - Cronômetro](./9-Cronometro)
 
+[10 - Câmera](./10-StartCamera)
+
 ## Licença
 
 [MIT](./LICENSE) &copy; [Daniel Dormin](https://ddparkas.github.io/site/)

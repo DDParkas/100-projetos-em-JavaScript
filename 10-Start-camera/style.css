@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+body{
+    background-color: #cecece;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+#made{
+    font-size: .7em;
+    margin-top: 80vh;
+    position: absolute;
+    color: #272727;
+}
+#made a{
+    text-decoration: none;
+    color: #272727;
+}
+#made a:hover{
+    color:#8B46E2;
+}
