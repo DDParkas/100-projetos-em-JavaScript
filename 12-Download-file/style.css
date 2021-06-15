@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    background-color:     #cecece;
+ ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#btn{
+    color:#272727;
+    background-color: #cecece;
+    border:1px solid #272727;
+    margin-top: 2em;
+    width: 150px;
+    height: 30px;
+    font-size: 1.2em;
+text-transform: uppercase;
+}
+textarea{
+    width: 500px;
+    height: 200px;
+    font-size: 1.3em;
+}
+#made{
+    font-size: .7em;
+    margin-top: 80vh;
+    position: absolute;
+    color: #272727;
+}
+#made a{
+    text-decoration: none;
+    color: #272727;
+}
+#made a:hover{
+    color:#8B46E2;
+}
