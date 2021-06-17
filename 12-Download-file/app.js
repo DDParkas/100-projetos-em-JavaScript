@@ -19,3 +19,7 @@ document.getElementById('btn').addEventListener("click", function(){
     var filename = "download.txt"
     download(filename, txt)
 }, false)
+
+const frase = "O rato roeu a roupa do rei de Roma";
+console.log(frase.indexOf("malandro")); // 23
+console.log(frase.indexOf("teste")); // -1

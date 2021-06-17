@@ -1,0 +1,49 @@
+body{
+    padding:0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+#game{
+    position: absolute;
+    width:500px;
+    height: 500px;
+    border: 1px solid #000;
+    margin: auto;
+    overflow: hidden;
+}
+#pipe{
+    width:50px;
+    height: 500px;
+    background-color: #000;
+    position: relative;
+    left:400px;
+    animation: pipe 2s infinite linear;
+}
+
+@keyframes pipe {
+    0%{left: 500px}
+    100%{left:-50px}
+}
+#hole{
+    width: 50px;
+    height: 150px;
+    top: -500px;
+    background-color: #0ff;
+    position: relative;
+    left: 400px;
+    animation: pipe 2s infinite linear;
+}
+#bird{
+    width: 30px;
+    height: 30px;
+    background-color: rebeccapurple;
+    position: absolute;
+    border-radius: 50px;
+    top:50px;
+    left: 20px;
+    
+    
+}
