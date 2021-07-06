@@ -12,12 +12,12 @@
     <img src="https://img.shields.io/badge/javascript-grey?logo=javascript"></img>
   </a>
   <a aria-label="um dia" href="#">
-    <img src="https://img.shields.io/badge/Dia-8-green"></img>
+    <img src="https://img.shields.io/badge/Dia-7-green"></img>
   </a>
 </p>
 
 ## Descrição
-Notificação de canto de tela feito somente em HTML5, CSS3 e JavaScript. O projeto foi feito no oitavo dia do desafio dos 100 dias.
+Notificação de canto de tela feito somente em HTML5, CSS3 e JavaScript. O projeto foi feito no sétimo dia do desafio dos 100 dias.
 
 06/05/2021
 

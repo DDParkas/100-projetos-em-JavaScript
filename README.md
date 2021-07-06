@@ -40,6 +40,10 @@
 
 [10 - Câmera](./10-StartCamera)
 
+[11 - Câmera](./11-Read-file)
+
+[12 - Câmera](./12-Download-file)
+
 ## Licença
 
 [MIT](./LICENSE) &copy; [Daniel Dormin](https://ddparkas.github.io/site/)
