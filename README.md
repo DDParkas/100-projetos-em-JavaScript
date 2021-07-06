@@ -40,9 +40,9 @@
 
 [10 - Câmera](./10-StartCamera)
 
-[11 - Câmera](./11-Read-file)
+[11 - Read file](./11-Read-file)
 
-[12 - Câmera](./12-Download-file)
+[12 - Download file](./12-Download-file)
 
 ## Licença
 
