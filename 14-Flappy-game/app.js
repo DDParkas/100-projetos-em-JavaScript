@@ -12,26 +12,40 @@ hole.addEventListener('animationiteration', () => {
     
 })
 
+var start = false
 
 const birdFunction = () =>{
-    let birdTop = parseInt(window.getComputedStyle(bird).getPropertyValue('top'))
-    
-    if( jumping == false){
-        bird.style.top = (birdTop + 3) + 'px'
-    }
-   
-    var blockLeft = parseInt(window.getComputedStyle(pipe).getPropertyValue("left"));
-    var holeTop = parseInt(window.getComputedStyle(hole).getPropertyValue("top"));
-    var cTop = -(500 - birdTop);
-    if ((birdTop > 480) || ((blockLeft < 30) && (blockLeft > -50) && ((cTop < holeTop) || (cTop > holeTop + 130)))) {
-        alert("game over")
-        bird.style.top = 50 + "px"
-    }
+    if (start){
+        let birdTop = parseInt(window.getComputedStyle(bird).getPropertyValue('top'))
 
+        if (jumping == false) {
+            bird.style.top = (birdTop + 3) + 'px'
+        }
+
+        var blockLeft = parseInt(window.getComputedStyle(pipe).getPropertyValue("left"));
+        var holeTop = parseInt(window.getComputedStyle(hole).getPropertyValue("top"));
+        var cTop = -(500 - birdTop);
+        if ((birdTop > 480) || ((blockLeft < 30) && (blockLeft > -50) && ((cTop < holeTop) || (cTop > holeTop + 130)))) {
+            alert("game over")
+            start = false
+            bird.style.top = 50 + "px"
+        }
+
+    }
     
 }
-var fall = setInterval(birdFunction, 10)
 
+    var fall = setInterval(birdFunction, 10)
+
+game.addEventListener('click', (e) =>{
+    if(e){
+        start = true
+        console.log(start)
+    }
+} )
+
+
+console.log(start)
 const jump = () => {
     jumping = true
     let count = 0

@@ -47,3 +47,16 @@ body{
     
     
 }
+#made{
+    font-size: .7em;
+    margin-top: 550px;
+    position: absolute;
+    color: #272727;
+}
+#made a{
+    text-decoration: none;
+    color: #272727;
+}
+#made a:hover{
+    color:#8B46E2;
+}
